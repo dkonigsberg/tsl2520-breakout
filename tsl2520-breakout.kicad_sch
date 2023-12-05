@@ -5,7 +5,7 @@
   (paper "USLetter")
 
   (title_block
-    (title "TSL2585 Sensor Breakout Board")
+    (title "TSL2520 Sensor Breakout Board")
     (date "2023-11-27")
     (rev "A")
     (company "LogicProbe.org")
@@ -1151,7 +1151,7 @@
           (reference "R1") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "R1") (unit 1)
         )
@@ -1186,7 +1186,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR05") (unit 1)
         )
@@ -1236,7 +1236,7 @@
           (reference "U1") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "U1") (unit 1)
         )
@@ -1266,7 +1266,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR02") (unit 1)
         )
@@ -1291,7 +1291,7 @@
     )
     (pin "1" (uuid 16efb97b-9596-494a-b177-e4e485c131c4))
     (instances
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR06") (unit 1)
         )
@@ -1321,7 +1321,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR01") (unit 1)
         )
@@ -1367,7 +1367,7 @@
           (reference "C4") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "C2") (unit 1)
         )
@@ -1406,7 +1406,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "H2") (unit 1)
         )
@@ -1452,7 +1452,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "R4") (unit 1)
         )
@@ -1491,7 +1491,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "H1") (unit 1)
         )
@@ -1537,7 +1537,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "R3") (unit 1)
         )
@@ -1582,7 +1582,7 @@
           (reference "#FLG01") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#FLG03") (unit 1)
         )
@@ -1628,7 +1628,7 @@
           (reference "C2") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "C1") (unit 1)
         )
@@ -1663,7 +1663,7 @@
           (reference "#PWR03") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR04") (unit 1)
         )
@@ -1693,7 +1693,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR09") (unit 1)
         )
@@ -1738,7 +1738,7 @@
           (reference "#FLG01") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#FLG02") (unit 1)
         )
@@ -1763,7 +1763,7 @@
     )
     (pin "1" (uuid e36e859b-99b4-461d-830d-33b41f8e4199))
     (instances
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR08") (unit 1)
         )
@@ -1810,7 +1810,7 @@
     (pin "6" (uuid 072d8575-4168-4288-94ca-9c21e17d0dc1))
     (pin "3" (uuid 97a8cc3d-f2e8-4630-a0e1-55067ef02e87))
     (instances
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "J1") (unit 1)
         )
@@ -1854,7 +1854,7 @@
     (pin "5" (uuid 72da817c-3340-4237-9b9e-86f40c005b30))
     (pin "1" (uuid bdb06f88-852d-40da-ac52-e5327bf2f2a0))
     (instances
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "U2") (unit 1)
         )
@@ -1884,7 +1884,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR07") (unit 1)
         )
@@ -1930,7 +1930,7 @@
           (reference "C9") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "C3") (unit 1)
         )
@@ -1981,7 +1981,7 @@
           (reference "C9") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "C4") (unit 1)
         )
@@ -2031,7 +2031,7 @@
           (reference "#FLG01") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#FLG01") (unit 1)
         )
@@ -2061,7 +2061,7 @@
           (reference "#PWR09") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "#PWR03") (unit 1)
         )
@@ -2107,7 +2107,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "tsl2585-breakout"
+      (project "tsl2520-breakout"
         (path "/3f3ab8a6-b03e-4a96-9558-b31e20a6d8cc"
           (reference "R2") (unit 1)
         )
